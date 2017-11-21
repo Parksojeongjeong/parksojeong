@@ -3,7 +3,8 @@ int main (void)
 {
 printf("Park so jeong jjang \n");
 printf("git project \n");
+printf("today: 21.11.2017 \n");
 return 0;
 }
-ldsjflaksfs
 sdfadfasdddddddddddddddde
+
